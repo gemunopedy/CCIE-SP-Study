@@ -8,3 +8,4 @@
 - Orhan Workbook SR 72page
 - https://www.netone.co.jp/knowledge-center/blog-column/knowledge_takumi_175/
 - https://www.youtube.com/watch?v=dttw2nc5FrA
+- https://www.segment-routing.net/images/tutorials/0080-SR-TOI-SR_TI-LFA_v17_EXTERNAL.pdf
