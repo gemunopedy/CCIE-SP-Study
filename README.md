@@ -7,3 +7,4 @@
 - https://chimay-wh.hatenablog.com/entry/2023/04/10/090418
 - Orhan Workbook SR 72page
 - https://www.netone.co.jp/knowledge-center/blog-column/knowledge_takumi_175/
+- https://www.youtube.com/watch?v=dttw2nc5FrA
