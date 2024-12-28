@@ -5,4 +5,4 @@
 - https://chimay-wh.hatenablog.com/entry/2023/03/22/205837
 - https://chimay-wh.hatenablog.com/entry/2023/03/28/230929
 - https://chimay-wh.hatenablog.com/entry/2023/04/10/090418
-- Orhan Workbook SR
+- Orhan Workbook SR 72page
