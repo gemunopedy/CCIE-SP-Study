@@ -12,5 +12,4 @@
 - https://community.cisco.com/kxiwq67737/attachments/kxiwq67737/videos-ask-the-experts/228/1/SR-MPLS%20%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%A8%E5%B0%8E%E5%85%A5%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88.pdf
 
 ## MVPN
-- ネットワークエンジニアとして/マルチキャストの基礎技術
--- https://www.infraexpert.com/study/study62.html#google_vignette
+- ネットワークエンジニアとして/マルチキャストの基礎技術 (https://www.infraexpert.com/study/study62.html#google_vignette)
