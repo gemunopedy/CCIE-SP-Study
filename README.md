@@ -13,3 +13,4 @@
 
 ## MVPN
 - ネットワークエンジニアとして/マルチキャストの基礎技術 (https://www.infraexpert.com/study/study62.html#google_vignette)
+- mVPN Deployment Models(https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2019/pdf/BRKIPM-3017.pdf)
