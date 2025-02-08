@@ -11,6 +11,9 @@
 - https://www.segment-routing.net/images/tutorials/0080-SR-TOI-SR_TI-LFA_v17_EXTERNAL.pdf
 - https://community.cisco.com/kxiwq67737/attachments/kxiwq67737/videos-ask-the-experts/228/1/SR-MPLS%20%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%A8%E5%B0%8E%E5%85%A5%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88.pdf
 
+## SRv6
+- Cisco Video SRv6 VPN サービスの概要 (https://community.cisco.com/t5/%E3%83%93%E3%83%87%E3%82%AA-%E3%82%B5%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC-%E3%83%93%E3%83%87%E3%82%AA/atx%E9%8C%B2%E7%94%BB%E3%81%A8%E8%B3%87%E6%96%99-srv6-vpn-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%A6%82%E8%A6%81/ba-p/5143895)
+
 ## MVPN
 - ネットワークエンジニアとして/マルチキャストの基礎技術 (https://www.infraexpert.com/study/study62.html#google_vignette)
 - mVPN Deployment Models(https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2019/pdf/BRKIPM-3017.pdf)
