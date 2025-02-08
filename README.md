@@ -18,3 +18,6 @@
 
 ## VXLAN/EVPN
 - orhan workbook (https://drive.google.com/file/d/1V385nHfCe28xiap3OGVqU8afcMJwvv6P/view?usp=sharing)
+
+## L2VPN
+- Cisco IOS XR L2VPNのサービスと機能について(https://www.cisco.com/c/ja_jp/support/docs/routers/asr-9000-series-aggregation-services-routers/116453-technote-ios-xr-l2vpn-00.html#toc-hId-1677303797)
